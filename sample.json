@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Prince William pays tribute to 'extraordinary' Queen",
+            "description": "The Prince of Wales says the Queen was \"by my side\" at the happiest and saddest moments of his life.",
+            "url": "http://www.bbc.co.uk/news/uk-62864869",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1416E/production/_126668228_4da400a8f3fedf68f372cf4d832f270061efdf7a.jpg",
+            "publishedAt": "2022-09-10T16:22:22.9572883Z",
+            "content": "By Alex BinleyBBC News\r\nPrince William has paid tribute to the Queen, saying the world has \"lost an extraordinary leader\" while he has lost his \"Grannie\".\r\nThe new Prince of Wales said \"she was by my… [+930 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Queen to lie in state for four full days before state funeral",
+            "description": "People will be able to view the Queen's coffin at Westminster Hall and pay respects in Edinburgh.",
+            "url": "http://www.bbc.co.uk/news/uk-62863486",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FFCE/production/_126668456_royals_flowers.jpg",
+            "publishedAt": "2022-09-10T16:22:20.3173206Z",
+            "content": "The Queen will lie in state for four days before her funeral at Westminster Abbey on Monday, 19 September. \r\nThe public will be allowed to view the coffin during that time.\r\nBefore this the Queen wil… [+3584 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Hong Kong: Five jailed in for 'seditious' children's books",
+            "description": "Authorities said the books, about sheep trying to hold back wolves, referred to the Beijing government.",
+            "url": "http://www.bbc.co.uk/news/world-asia-china-62863622",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/447C/production/_126623571_gettyimages-1234110974.jpg",
+            "publishedAt": "2022-09-10T14:37:21.2550469Z",
+            "content": "Five speech therapists in Hong Kong have been jailed for 19 months each after being found guilty of publishing \"seditious\" children's books. \r\nAuthorities interpreted the books - about sheep trying t… [+1698 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC Sport",
+            "title": "Tributes paid to Queen before England v SA Test",
+            "description": "Tributes are paid to Her Majesty Queen Elizabeth II on day three of the third Test between England and South Africa at The Oval.",
+            "url": "http://www.bbc.co.uk/sport/cricket/62838463",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/1189A/production/_126643817_englandteam.jpg",
+            "publishedAt": "2022-09-10T10:52:20.6613952Z",
+            "content": "Tributes were paid to Her Majesty Queen Elizabeth II on day three of the third Test between England and South Africa at The Oval.\r\nA minute's silence was observed before the national anthems, with Go… [+2135 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "New Zealand: Whale may have caused boat flip that killed five",
+            "description": "Mayor Craig Mackle says the whale may have surfaced beneath the boat causing it to capsize.",
+            "url": "http://www.bbc.co.uk/news/world-asia-62860778",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/122CE/production/_126664447_gettyimages-521454466.jpg",
+            "publishedAt": "2022-09-10T10:22:20.4886858Z",
+            "content": "Five people have died in New Zealand after a birdwatching boat capsized, possibly after colliding with a whale. \r\nEleven people, mostly from the birdwatching group, were onboard when the boat capsize… [+1901 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Charles formally confirmed as king in ceremony televised for first time",
+            "description": "Charles III is proclaimed as monarch in the first televised Accession Council.",
+            "url": "http://www.bbc.co.uk/news/uk-62860893",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2B8A/production/_126664111_pm.jpg",
+            "publishedAt": "2022-09-10T09:22:16.0519529Z",
+            "content": "Charles III has been proclaimed as king at a ceremony at St James's Palace.\r\nCharles became king immediately following the death of his mother Queen Elizabeth II, but a historic meeting formally conf… [+231 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Kharkiv offensive: Russia surprised as Ukraine takes several towns - UK",
+            "description": "President Zelensky says Ukraine has retaken 30 settlements in its eastern offensive this week.",
+            "url": "http://www.bbc.co.uk/news/world-europe-62860774",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/48CC/production/_126663681_gettyimages-1243044703.jpg",
+            "publishedAt": "2022-09-10T08:37:17.1082493Z",
+            "content": "By Matt MurphyBBC News\r\nA Ukrainian advance near the eastern city of Kharkiv - which has recaptured several towns - has taken Russia \"by surprise\", UK defence officials say.\r\nIn a daily update, they … [+3848 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "In pictures: Queen Elizabeth II in North America",
+            "description": "Queen Elizabeth II met with 13 US presidents and 12 Canadian prime ministers over 70 years.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-62854864",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/95FB/production/_126659383_qe2ford.jpg",
+            "publishedAt": "2022-09-09T21:37:18.1845741Z",
+            "content": "By Bernd Debusmann Jrin Washington\r\nOver a period spanning more than 70 years, Queen Elizabeth met with more than a dozen US presidents and 12 Canadian prime ministers. \r\nThe only American president … [+5833 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "What do we call the Royal Family now?",
+            "description": "The Royal Family is changing after the death of the Queen - and so are their titles.",
+            "url": "http://www.bbc.co.uk/news/uk-62854804",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0429/production/_126656010_p0czjx8t.jpg",
+            "publishedAt": "2022-09-09T18:22:20.0913328Z",
+            "content": "After the death of Queen Elizabeth II, the titles of Royal Family members have changed.\r\nSo, what are their new roles?"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Royal rebranding: What will happen to stamps, coins, banknotes and passports?",
+            "description": "We're used to seeing Queen Elizabeth II's portrait and coat of arms in our change and on cereal boxes.",
+            "url": "http://www.bbc.co.uk/news/uk-59596996",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/42ED/production/_122033171_gettyimages-513077156.jpg",
+            "publishedAt": "2022-09-09T07:22:20.9827975Z",
+            "content": "After 70 years on the throne, Queen Elizabeth II had become an intrinsic part of our everyday lives. We're accustomed to seeing her portrait, profile and coat of arms on letters, in our loose change … [+4420 chars]"
+        }
+    ]
+}
